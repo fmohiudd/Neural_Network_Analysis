@@ -37,8 +37,8 @@ We used Jupyter notebook, read the csv file and created a dataframe. We dropped 
 - **Preprocessing CLASSIFICATION -** There are 71 different classification values within the range of  1 and 17,326 as seen in Fig 5. A good cutoff for binning lower values of CLASS appears to be about 1000. I binned the CLASS counts less than 1000 counts as "other". Fig 6 shows the value count of the CLASS column. 
 
 
-<img src="images/application_type_values.png" width="400">
-<img src="images/application_type_plot.png" width="400">
+<img src="images/classification_values.png" width="400">
+<img src="images/classification_plot.png" width="400">
 
 **Fig 5:** The two figures show a large variation of the values of the CLASS. 
 
